@@ -1,6 +1,6 @@
-Java Hello World Demo
-=====================
+Java8 Interface Default Method Demo
+===================================
 
-Use maven for Java.
+Try "default methods" in Java 8.
 
 Run `Hello.java` in your IDE.
